@@ -1,0 +1,25 @@
+| **Line** | **Cavity** | **Wire Cross Sectional Area** | **Wire Colour**    | **Wire Option**              |
+|----------|------------|-------------------------------|--------------------|------------------------------|
+| 1        | A1         | 0.35                          | Yellow / Black     | HCAN-H                       |
+| 2        | A2         | 0.35                          | Blue               | OBD Pstn-Sensor+             |
+| 3        | B1         | 0.35                          | Green / White      | HCAN-L                       |
+| 4        | B2         | 0.35                          | Green / Blue       | OBD Pstn-Sensor-             |
+| 5        | B4         | 0.35                          | Brown              | S98B WAKE UP                 |
+| 6        | B4         | 0.35                          | Brown              | S98C OBDC-WAKE UP            |
+| 7        | C1         | 0.35                          | Yellow / Brown     | PTCAN-H                      |
+| 8        | C2         | 0.5                           | Slate              | BatPrsAlm.Sig                |
+| 9        | C3         | 0.35                          | Green              | BreathingLamp-Drv            |
+| 10       | C4         | 0.5                           | White              | + HVIL - SRC                 |
+| 11       | D1         | 0.35                          | Green / Yellow     | PTCAN-L                      |
+| 12       | D3         | 0.35                          | White / Black      | WAKEUP-EN                    |
+| 13       | D4         | 0.35                          | Red / Yellow       | HVIL-Return                  |
+| 14       | E1         | 0.5                           | Yellow / Blue      | OBDCAN-H                     |
+| 15       | E2         | 0.35                          | White / Blue       | OBD-PWR-ON                   |
+| 16       | E3         | 0.35                          | Purple             | ESS-CLNT.PUMP-DRV            |
+| 17       | F1         | 0.35                          | Green / Black      | OBDCAN-L                     |
+| 18       | F2         | 0.35                          | Red / Green        | OBD-WAKE-UP                  |
+| 19       | F4         | 0.35                          | Red / White        | ESS-CLNT.PUMP-RLY-DRV        |
+| 20       | G1         | 0.5                           | Red / Blue         | KL30                         |
+| 21       | G4         | 0.5                           | Red / Blue         | KL30                         |
+| 22       | H1         | 0.5                           | Black              | GND                          |
+| 23       | H4         | 0.5                           | Black              | GND                          |
