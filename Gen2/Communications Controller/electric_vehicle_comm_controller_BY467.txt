@@ -9,12 +9,11 @@ Line	Cavity	Wire Cross Sectional Area	Wire Colour	Wire Option
 5	C3	0.35	Red / Yellow	S98B OBD CHG CP
 6	C4	0.35	Red / Green	S98C Off-Chg-Wake-Up
 7	D3	0.35	Green / Red	S98B OBC CC
-8	D3	0.35	Green / Red	S98C
-9	D4	0.35	White / Blue	Off-Chg-PlugOn
-10	E2	0.35	White / Red	EVCC-Orc-CP
-11	E3	0.35	Yellow / Blue	Off-Chg-CAN-H
-12	E4	0.35	Yellow / Black	HCAN-H
-13	F1	0.35	Yellow / Red	EVCC-OBC-PE
-14	F2	0.35	Orange / Black	EVCC-OBC-PP
-15	F3	0.35	Green / Black	Off-Chg-CAN-L
-16	F4	0.35	Green / White	HCAN-L
+8	D4	0.35	White / Blue	Off-Chg-PlugOn
+9	E2	0.35	White / Red	EVCC-Orc-CP
+10	E3	0.35	Yellow / Blue	Off-Chg-CAN-H
+11	E4	0.35	Yellow / Black	HCAN-H
+12	F1	0.35	Yellow / Red	EVCC-OBC-PE
+13	F2	0.35	Orange / Black	EVCC-OBC-PP
+14	F3	0.35	Green / Black	Off-Chg-CAN-L
+15	F4	0.35	Green / White	HCAN-L
