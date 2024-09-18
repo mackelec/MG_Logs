@@ -1,0 +1,16 @@
+Combined Charger Unit
+Connector: BY247
+
+Line	Cavity	Wire Cross Sectional Area	Wire Colour	Wire Option
+1	A2	0.35	Brown	S98C OBC WkUp
+2	A3	0.35	Red / Yellow	S98C Onbd Chargr CP
+3	A4	0.35	Yellow / Black	S98C HCAN-H
+4	B2	0.35	Red / White	S98C OBC Skt Pstv Snssr+
+5	B3	0.35	Green / Red	S98C Onbd Chargr CC
+6	B4	0.35	Green / White	S98C HCAN-L
+7	C1	0.35	Yellow / Brown	S98C PTCAN-H
+8	C2	0.35	Green / Yellow	S98C PTCAN-L
+9	D2	0.35	Purple	S98C OBC Skt Pstv Snssr-
+10	D3	0.35	White / Black	S98C Wakeup Enable
+11	G4	0.5	Black	S98C GND
+12	H1	0.5	Red / Blue	S98C KL30
